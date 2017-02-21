@@ -1,2 +1,3 @@
-# slides-beyonds-the-boilerplate
-Decompress 2014 slides
+Redirect to slides on new github account:
+
+http://michaeltaranto.github.io/slides-beyonds-the-boilerplate
